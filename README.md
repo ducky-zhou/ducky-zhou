@@ -65,5 +65,3 @@ I occasionally write about what I'm learning:
 ---
 
 *"The journey of a thousand miles begins with a single commit."* 🚀
-
-Last updated: October 2025
